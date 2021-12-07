@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer || Frontend Developer - React JS</h3>
 
 
-![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5616AQEUMK5lq3AKag/profile-displaybackgroundimage-shrink_350_1400/0/1636898460656?e=1644451200&v=beta&t=LutUNfzfvwEdJPusGJiR3SNx_ZHfbYRfAPQqbcMHsOk)
+![I am GitHub Readme Generator's creator](https://www.linkedin.com/in/ai-munna/)
 <br /><br />
 
 
