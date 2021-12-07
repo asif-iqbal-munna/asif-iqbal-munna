@@ -31,8 +31,6 @@ Some projects are done by me. I used previously mentioned technologies and essen
 So, now I am looking forward to getting an internship or job opportunity in your organization where I can sharpen my skills and will be able to learn more to fit best at my position.
 
 
-Email : asifiqbalmunna.me@gmail.com
-Github : https://github.com/asif-iqbal-munna
 Phone : +88 01707-742317
 
 <hr />
@@ -44,7 +42,7 @@ Phone : +88 01707-742317
 
 - 💬 Ask me about **React, MERN Stack**
 
-- 📫 React Me **asifiqbalmunna1318@gmail.com**
+- 📫 Mail Me **asifiqbalmunna1318@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/file/d/1eyoOqZuNPy5cgacXSAWwoXnzvsTfcH5h/view?usp=sharing](https://drive.google.com/file/d/1eyoOqZuNPy5cgacXSAWwoXnzvsTfcH5h/view?usp=sharing)
 <hr />
