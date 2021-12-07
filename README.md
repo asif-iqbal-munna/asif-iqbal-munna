@@ -34,3 +34,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif-iqbal-munna&show_icons=true&locale=en" alt="asif-iqbal-munna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif-iqbal-munna&" alt="asif-iqbal-munna" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asif-iqbal-munna)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-iqbal-munna)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asif-iqbal-munna&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asif-iqbal-munna)  
+
+![GitHub metrics](https://metrics.lecoq.io/asif-iqbal-munna)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asif-iqbal-munna)  
+
+![Profile views](https://gpvc.arturio.dev/asif-iqbal-munna)  
